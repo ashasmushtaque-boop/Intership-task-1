@@ -74,3 +74,5 @@ Project Structure
 Author
 Created as a data visualization project for exploring the Iris dataset.# Intership-task-1
 Exploring and Visualizing a Simple Dataset
+**4. Author**
+Ashas Mushtaque
